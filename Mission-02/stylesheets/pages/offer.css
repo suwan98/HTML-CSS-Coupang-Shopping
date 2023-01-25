@@ -1,0 +1,7 @@
+/* 오늘의 쇼핑 제안 */
+
+.pro-list{
+    display: flex;
+    align-items: center;
+}
+
